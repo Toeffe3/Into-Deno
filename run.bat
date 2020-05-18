@@ -1,1 +1,2 @@
-deno run --allow-net main.js
+deno run --allow-env --allow-write --allow-read --allow-plugin --allow-net main.js
+pause
